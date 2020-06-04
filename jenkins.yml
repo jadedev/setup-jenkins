@@ -1,5 +1,5 @@
 ---
- - hosts: My_Group
+ - hosts: all
   
    tasks:
     - name: ensure the jenkins apt repository key is installed
